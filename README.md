@@ -118,9 +118,9 @@ I’m a passionate **Web & App Developer** focused on creating clean, scalable, 
 
 ## 📫 Contact Me
 
-- 📧 Email: **your-email@example.com**
-- 💼 LinkedIn: **https://www.linkedin.com/in/your-profile/**
-- 🌍 Portfolio: **https://your-portfolio-link.com**
+- 📧 Email: **ayeshanadeemrj@gmail.com**
+- 💼 LinkedIn: **https://www.linkedin.com/in/ayesha-nadeem-rj/**
+- 🌍 Portfolio: **https://ayesha-nadeem-31.vercel.app/**
 
 ---
 
